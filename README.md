@@ -8,6 +8,6 @@ If all the blocks fill up and you can't make any moves you lose.
 Like this: https://play2048.co/  
 SDL2 library for GUI  
 
-TO RUN REQUIRES SDL2.dll and SDL2_ttf.dll (it is zipped due to file size) in the same directore as .exe  
+TO RUN REQUIRES SDL2.dll and SDL2_ttf.dll in the same directore as .exe  
 In addition a "resources" folder is required and the font file "Consolas.ttf".  
-Just like in the bin/debug directory.  
+Just like in the `Release.zip` archive.  
