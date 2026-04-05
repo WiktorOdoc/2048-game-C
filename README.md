@@ -1,5 +1,5 @@
 # 2048-game-C
-2048 game with GUI and gamestate saving in C
+2048 game with GUI and gamestate saving in C - project for PUT semester 2 - low-level programming
 
 a 4x4 grid, every turn a 2 (occasionally 4) appears in one block  
 You can press arrows to slide all the blocks to one side, numbers that are the same merge and add. It is also added to score.  
