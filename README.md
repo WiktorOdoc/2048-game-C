@@ -11,3 +11,5 @@ SDL2 library for GUI
 TO RUN REQUIRES SDL2.dll and SDL2_ttf.dll in the same directore as .exe  
 In addition a "resources" folder is required and the font file "Consolas.ttf".  
 Just like in the `Release.zip` archive.  
+
+<img width="525" height="654" alt="2048" src="https://github.com/user-attachments/assets/269fb81a-ba15-48d2-859e-0041ace58576" />
